@@ -1,6 +1,3 @@
-# ETL-Teal Team 6 Class Project
+# ETL-Teal Team 6 Project
 
-CollaborativeBranching
-This is a test to determine how to use branches to work as a team to create a project. We will try having the one main branch and a branch for each team member to work on the code creating sections of the project. If it works it'll become the one for our team.
-
-EDIT README UPON PROJECT COMPLETION!
+The purpose of this project is to compile the data from recent book reviews of children's books and filter the data through IBM's Watson Tone Analyzer to create a database for analysis. The client will use the database to create correlation models determining the level of correlation of star ratings to tonal ratings. If the correlation is high the client will use those findings to determine if the star rating is obsolete, needs updating, or is performing as expected. It the correlation is low their marketing department will likely use the information to design targeted marketing in two different directions to reach maximum audience reach. 
